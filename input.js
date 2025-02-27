@@ -1,6 +1,6 @@
 /**
  * 多娇江山v2.0
- * 执行时间： 25 10,16 * * *  多娇江山.js
+ * 执行时间： 25 10,17 * * *  多娇江山.js
  * const $ = new Env("多娇江山");
  * 注册地址：https://app.21js.com/webChannels/invite?inviteCode=WE8Z8Y&tenantId=24&accountId=649cbdd63cbc286cbf6f3478
  * ========= 青龙--配置文件 ===========
